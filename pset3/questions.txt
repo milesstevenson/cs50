@@ -1,0 +1,4 @@
+1. 3x3
+2. two demensional array
+3. greet()
+4. greet() - optional, move(), init(), won(), draw()

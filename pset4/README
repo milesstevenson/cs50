@@ -1,0 +1,1 @@
+This is an implementation of Harvard's problem set 4 sudoku game. The ncurses library is required to run this application.
